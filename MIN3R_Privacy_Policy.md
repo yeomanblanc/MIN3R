@@ -1,6 +1,6 @@
-#PRIVACY NOTICE
+# PRIVACY NOTICE
 
-###Last updated June 15, 2022
+### Last updated June 15, 2022
 
 
 
@@ -10,7 +10,7 @@ Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at ssebastianestrada@gmail.com.
 
 
-#SUMMARY OF KEY POINTS
+# SUMMARY OF KEY POINTS
 
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
 
@@ -33,7 +33,7 @@ How do you exercise your rights? The easiest way to exercise your rights is by f
 Want to learn more about what MIN3R does with any information we collect? Click here to review the notice in full.
 
 
-#TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
@@ -49,7 +49,7 @@ Want to learn more about what MIN3R does with any information we collect? Click 
 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-#1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
 
@@ -78,7 +78,7 @@ Log and Usage Data. Log and usage data is service-related, diagnostic, usage, an
 Device Data. We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-#2. HOW DO WE PROCESS YOUR INFORMATION?
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
@@ -91,7 +91,7 @@ To deliver targeted advertising to you. We may process your information to devel
 To evaluate and improve our Services, products, marketing, and your experience. We may process your information when we believe it is necessary to identify usage trends, determine the effectiveness of our promotional campaigns, and to evaluate and improve our Services, products, marketing, and your experience.
 To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
 
-#3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 
@@ -124,19 +124,19 @@ _Google Play Console_<br />
 We also may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
-#4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+## 4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
 In Short: We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
 
 The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-#5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+## 5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
 In Short: We may use cookies and other tracking technologies to collect and store your information.
 
 We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
-#6. HOW LONG DO WE KEEP YOUR INFORMATION?
+## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -144,13 +144,13 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-#7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-#8. WHAT ARE YOUR PRIVACY RIGHTS?
+## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
  
@@ -166,7 +166,7 @@ Cookies and similar technologies: Most Web browsers are set to accept cookies by
 
 If you have questions or comments about your privacy rights, you may email us at ssebastianestrada@gmail.com.
 
-#9. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
